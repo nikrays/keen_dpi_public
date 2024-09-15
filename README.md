@@ -13,6 +13,7 @@
 ###  Все условия обязательны!
 - Обновить [KeeneticOS 4.2 Beta 3](https://docs.keenetic.com/eaeu/ultra/kn-1811/ru/24723-latest-development-release.html#36070-keeneticos4-2-beta-3).
 - В разделе "Интернет-фильтры" отключить все сторонние фильтры (NextDNS, SkyDNS, Яндекс DNS и другие).
+- В настройках Etherbet поставить галочки "Игнорировать DNSv4 и DNSv6 интернет-провайдера"
 - Необходимо настроить DоT вне зависимости от провайдера, согласно инструкции [Прокси-серверы DNS-over-TLS и DNS-over-HTTPS для шифрования DNS-запросов](https://help.keenetic.com/hc/ru/articles/360007687159).
 <details>
     <summary>Обязательно привести настройки DNS к виду как на скриншоте.</summary>
