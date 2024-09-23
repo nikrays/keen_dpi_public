@@ -88,6 +88,16 @@ rm -rf /opt/*
 </details>
 
 - Проверить, что установленны все пакеты под категорией OPKG в наборах компонентов в настройках, также протокол IPv6 и Модули ядра подсистемы Netfilter, он появится в списке пакетов только после установки пакета "Протокол IPv6".
+
+<details>
+    <summary>Обязательно привести настройки OPKG к виду как на скриншоте.</summary>
+
+![image](https://github.com/user-attachments/assets/4ab290e8-9dcd-4143-a3f2-584fd0a21530)
+
+  - Проверить наличие галочки Протокол IPV6
+
+</details>
+
 - Сделать тест blockcheck на ПК. Скачать [zapret-win-bundle](https://github.com/bol-van/zapret-win-bundle/archive/refs/heads/master.zip), распаковать, запустить исполняемый файл blockcheck.cmd как на скриншоте.
 
 <details>
