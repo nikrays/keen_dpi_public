@@ -92,9 +92,11 @@ rm -rf /opt/*
 <details>
     <summary>Обязательно привести настройки OPKG к виду как на скриншоте.</summary>
 
-![image](https://github.com/user-attachments/assets/4ab290e8-9dcd-4143-a3f2-584fd0a21530)
+![image](https://github.com/user-attachments/assets/9ee6d4c2-3311-483f-a930-6158c5f5ae82)
 
   - Проверить наличие галочки Протокол IPV6
+
+![image](https://github.com/user-attachments/assets/bd52fd5c-0d96-40f3-93cf-2af89fdd9358)
 
 </details>
 
@@ -102,6 +104,8 @@ rm -rf /opt/*
 
 <details>
     <summary>Короткая инстркция.</summary>
+
+!!! Если хотя бы одно обязательное условие не выполненно, мне не пишите !!!
 
 1. Запустить:
 
