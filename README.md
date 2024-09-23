@@ -100,12 +100,12 @@ rm -rf /opt/*
 
 </details>
 
+!!! Если хотя бы одно обязательное условие не выполненно, мне не пишите !!!
+
 - Сделать тест blockcheck на ПК. Скачать [zapret-win-bundle](https://github.com/bol-van/zapret-win-bundle/archive/refs/heads/master.zip), распаковать, запустить исполняемый файл blockcheck.cmd как на скриншоте.
 
 <details>
     <summary>Короткая инстркция.</summary>
-
-!!! Если хотя бы одно обязательное условие не выполненно, мне не пишите !!!
 
 1. Запустить:
 
