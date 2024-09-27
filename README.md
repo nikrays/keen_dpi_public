@@ -120,7 +120,8 @@ rm -rf /opt/*
 
 2. Вставить:
 ```bash
-rutracker.org instagram.com facebook.com x.com scontent-hel3-1.xx.fbcdn.net scontent-hel3-1.cdninstagram.com rr1---sn-5go7ynlk.googlevideo.com
+rutor.is rutracker.org facebook.com static.xx.fbcdn.net scontent-hel3-1.xx.fbcdn.net instagram.com  x.com scontent-hel3-1.xx.fbcdn.net scontent-hel3-1.cdninstagram.com rr1---sn-5go7ynlk.googlevideo.com
+rr3---sn-n8v7kn7k.googlevideo.com
 ```
 
 3. Отвечать в такой последовательности: у у у у затем клавишу "enter" до тех пор пока не начнется тестирование и ждем, тест около 3 часов может длиться. Итог Summary скинуть в группу.
