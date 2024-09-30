@@ -109,7 +109,7 @@ rm -rf /opt/*
 
 !!! Если хотя бы одно обязательное условие не выполненно, мне не пишите !!!
 
-- Сделать тест blockcheck на ПК. Скачать [zapret-win-bundle](https://github.com/bol-van/zapret-win-bundle/archive/refs/heads/master.zip), распаковать, запустить исполняемый файл blockcheck.cmd как на скриншоте.
+- Сделать тест blockcheck на ПК, предварительно выключив все сервисы(VPN, proxy, DPI bypass), которые обходят блокировки. Скачать [zapret-win-bundle](https://github.com/bol-van/zapret-win-bundle/archive/refs/heads/master.zip), распаковать, запустить исполняемый файл blockcheck.cmd как на скриншоте.
 
 <details>
     <summary>Короткая инстркция.</summary>
@@ -127,6 +127,10 @@ rr1---sn-ntq7ynle.googlevideo.com rr2---sn-q4flrnel.googlevideo.com rr3---sn-n8v
 Затем для всего стального, если потребуется:
 ```bash
 rutor.info rutracker.org facebook.com static.xx.fbcdn.net scontent-hel3-1.xx.fbcdn.net instagram.com x.com scontent-hel3-1.xx.fbcdn.net scontent-hel3-1.cdninstagram.com
+```
+Или все вместе, но это займет очень много времени, более 4 часов, лучше ставить на ночь:
+```bash
+rr1---sn-ntq7ynle.googlevideo.com rr2---sn-q4flrnel.googlevideo.com rr3---sn-n8v7kn7k.googlevideo.com rr4---sn-jvhnu5g-n8ve7.googlevideo.com rr5---sn-jvhnu5g-n8v6.googlevideo.com rr6---sn-jvhnu5g-gv8e.googlevideo.com rutor.info rutracker.org facebook.com static.xx.fbcdn.net scontent-hel3-1.xx.fbcdn.net instagram.com x.com scontent-hel3-1.xx.fbcdn.net scontent-hel3-1.cdninstagram.com
 ```
 
 3. Отвечать в такой последовательности: у у у у затем клавишу "enter" до тех пор пока не начнется тестирование и ждем, тест около 3 часов может длиться. Итог Summary скинуть в группу.
