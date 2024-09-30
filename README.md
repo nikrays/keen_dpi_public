@@ -23,7 +23,7 @@
 rm -rf /opt/*
 ```
 
-- Обновить на канале "предварительный" до [KeeneticOS 4.2 Beta](https://docs.keenetic.com/eaeu/ultra/kn-1811/ru/24723-latest-development-release.html).
+- Обновить на канале "предварительный" до [Последней версии](https://docs.keenetic.com/eaeu/ultra/kn-1811/ru/24723-latest-development-release.html).
 - В разделе "Интернет-фильтры" отключить все сторонние фильтры (NextDNS, SkyDNS, Яндекс DNS и другие).
 - В настройках Ethernet поставить галочки "Игнорировать DNSv4 и DNSv6 интернет-провайдера"
 - Необходимо настроить DоT вне зависимости от провайдера, согласно инструкции [Прокси-серверы DNS-over-TLS и DNS-over-HTTPS для шифрования DNS-запросов](https://help.keenetic.com/hc/ru/articles/360007687159).
