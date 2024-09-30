@@ -84,7 +84,7 @@ rm -rf /opt/*
 
 ![Снимок экрана 2024-09-10 175304](https://github.com/user-attachments/assets/5c451982-a36c-4a3d-aacb-497e8898caa4)
 
-6. Скачайте [Putty](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe) для работы с протоколами SSH и Telnet. Запустите и выберите тип подключения SSH, впишите IP-адрес роутера в домашнем сегменте Home (по умолчанию 192.168.1.1), укажите 222-й порт и нажмите кнопку Open. Если заходили под admin, то вводим exe sh.
+6. Скачайте [Putty](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe) для работы с протоколами SSH и Telnet. Запустите и выберите тип подключения SSH, впишите IP-адрес роутера в домашнем сегменте Home (по умолчанию 192.168.1.1), укажите 22-й порт или 222-й порт, если не подключается и нажмите кнопку Open. Если заходили под admin, то вводим exe sh.
 
 ![Снимок экрана 2024-09-10 175953](https://github.com/user-attachments/assets/066ae86b-237d-4e29-aae8-fd8ef6236b74)
 
