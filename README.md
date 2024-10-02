@@ -122,7 +122,7 @@ rm -rf /opt/*
 
 Сначала отдельно прогоняем для YouTube:
 ```bash
-rr1---sn-ntq7ynle.googlevideo.com rr2---sn-q4flrnel.googlevideo.com rr3---sn-n8v7kn7k.googlevideo.com
+rr1---sn-ntq7ynle.googlevideo.com rr2---sn-q4flrnel.googlevideo.com rr3---sn-n8v7kn7k.googlevideo.com rr4---sn-5go7ynld.googlevideo.com rr5---sn-4g5e6nss.googlevideo.com rr5---sn-5goeenes.googlevideo.com
 ```
 Затем для всего стального, если потребуется:
 ```bash
@@ -130,7 +130,7 @@ rutor.info rutracker.org instagram.com static.cdninstagram.com scontent-hel3-1.c
 ```
 Или все вместе, но это займет очень много времени, более 4 часов, лучше ставить на ночь:
 ```bash
-rr1---sn-ntq7ynle.googlevideo.com rr2---sn-q4flrnel.googlevideo.com rr3---sn-n8v7kn7k.googlevideo.com rutor.info rutracker.org instagram.com static.cdninstagram.com scontent-hel3-1.cdninstagram.com facebook.com static.xx.fbcdn.net scontent-hel3-1.xx.fbcdn.net x.com api.x.com
+rr1---sn-ntq7ynle.googlevideo.com rr2---sn-q4flrnel.googlevideo.com rr3---sn-n8v7kn7k.googlevideo.com rr4---sn-5go7ynld.googlevideo.com rr5---sn-4g5e6nss.googlevideo.com rr5---sn-5goeenes.googlevideo.com rutor.info rutracker.org instagram.com static.cdninstagram.com scontent-hel3-1.cdninstagram.com facebook.com static.xx.fbcdn.net scontent-hel3-1.xx.fbcdn.net x.com api.x.com
 ```
 
 3. Отвечать в такой последовательности: 
