@@ -116,6 +116,9 @@ rm -rf /opt/*
 
 !!! Если хотя бы одно обязательное условие не выполненно, мне не пишите !!!
 
+<details>
+    <summary>НЕАКТУАЛЬНО! Blockcheck.</summary>
+
 - Сделать тест blockcheck на ПК, предварительно выключив все сервисы(VPN, proxy, DPI bypass), которые обходят блокировки. Скачать [zapret-win-bundle](https://github.com/bol-van/zapret-win-bundle/archive/refs/heads/master.zip), распаковать, запустить исполняемый файл blockcheck.cmd как на скриншоте.
 
 <details>
@@ -146,6 +149,7 @@ rr1---sn-ntq7ynle.googlevideo.com rr3---sn-n8v7kn7k.googlevideo.com rutor.info r
  - ENTER 3 раза
  - запустится тест, файл которого нужно будет скинуть мне в личку.
 
+</details>
 </details>
 
 ### Можно приступать к установке репозитория [Zapret](https://github.com/bol-van/zapret) или воспользоваться коммерческим проектом на базе Zapret, с тонкой настройкой под вашу ситуацию написав в группу.
